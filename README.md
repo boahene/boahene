@@ -17,7 +17,7 @@ Ask me anything [here](https://github.com/boahene/git_homepage/issues)
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=boahene&show_icons=true&theme=transparent" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">

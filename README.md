@@ -19,6 +19,7 @@ Ask me anything [here](https://github.com/boahene/boahene/issues)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=boahene&show_icons=true&theme=transparent" />
 </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=boahene)](https://github.com/ryo-ma/github-profile-trophy)
   
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boahene&langs_count=8&theme=jolly&layout=compact" />

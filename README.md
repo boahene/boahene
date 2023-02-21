@@ -1,7 +1,7 @@
 <img src="https://github.com/boahene/git_homepage/blob/master/Linkedin%20Banner.png" />
 
-My Name is [Boahene](https://twitter.com/ImBoahene). I am an IT person with an interest in solving real-world problems with technology and dependable leadership. My career goal is to use my skills,knowledge and experience to promote and foster a better tommorrow. I love to promote brands and write codes <br/>
-Ask me anything [here](https://github.com/boahene/git_homepage/issues)
+My Name is [Boahene](https://twitter.com/ImBoahene). I am an IT person with an interest in solving real-world problems with technology and dependable leadership. My career goal is to use my skills,knowledge and experience to promote and foster a better tommorrow. I love to promote brands and write codes:computer: <br/>
+Ask me anything [here](https://github.com/boahene/boahene/issues)
 
 <div align="center">
 <p>
